@@ -1,0 +1,5 @@
+{
+  "service": "taskflow-api",
+  "environment": "staging",
+  "healthEndpoint": "https://staging.example.com/health"
+}
